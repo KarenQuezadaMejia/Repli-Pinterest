@@ -1,0 +1,13 @@
+#imgCard{
+   
+    margin: 10px;
+   
+  }
+
+  #borderImg{
+    border-radius: 10px;
+  }
+
+  #dotImg{
+      float: right;
+  }
